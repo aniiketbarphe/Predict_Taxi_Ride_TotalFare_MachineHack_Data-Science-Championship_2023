@@ -9,9 +9,9 @@ As a student, you've undoubtedly hailed a ride when you're late for class or hea
  
 **2) About the Dataset:-** Dataset contains following files,
 
-**2.1) Train:-**  rows x  columns
+**2.1) Train:-** 209673 rows x 8 columns
 
-**2.2) Test:-**  rows x  columns
+**2.2) Test:-** 89861 rows x 6 columns
 
 **2.3) Data description:-**
 
@@ -30,6 +30,12 @@ As a student, you've undoubtedly hailed a ride when you're late for class or hea
 💰 **'total_fare':-** The grand total for the ride (this is your prediction target!)
 
 ⚡ **'surge_applied':-** Was there a surge pricing applied? Yes or no?
+
+**2.4) Output feature (Target feature):-**
+
+**a) fare:-** Identify the input features in the dataset and use them to predict the "fare" of a trip.
+
+**b) total_fare:-** Once the "fare" is predicted, then calculate "toatl_fare" using other inputs. (like fare, tip & miscellaneous_fees)
 
 📣 The contest will kick off on May 19, 2023, and runs through June 11, 2023.
 Get ready to put on your data scientist hat 🎓📊, because your mission, should you choose to accept it, is to construct a machine learning model that uses these parameters to predict the 'total_fare'
