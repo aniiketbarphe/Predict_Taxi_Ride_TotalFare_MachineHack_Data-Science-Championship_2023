@@ -31,6 +31,7 @@ As a student, you've undoubtedly hailed a ride when you're late for class or hea
 
 ⚡ **'surge_applied':-** Was there a surge pricing applied? Yes or no?
 
+
 **2.4) Output feature (Target feature):-**
 
 **a) fare:-** Identify the input features in the dataset and use them to predict the "fare" of a trip.
@@ -42,7 +43,9 @@ As a student, you've undoubtedly hailed a ride when you're late for class or hea
 **4) Public and Private Split:-**
 
 a) This hackathon supports private and public leaderboards
+
 b) The public leaderboard is evaluated on 30% of Test data
+
 c) The private leaderboard will be made available at the end of the hackathon which will be evaluated on 100% of Test data
 
 # Summary
