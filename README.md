@@ -37,12 +37,28 @@ As a student, you've undoubtedly hailed a ride when you're late for class or hea
 
 **b) total_fare:-** Once the "fare" is predicted, then calculate "toatl_fare" using other inputs. (like fare, tip & miscellaneous_fees)
 
-📣 The contest will kick off on May 19, 2023, and runs through June 11, 2023.
-Get ready to put on your data scientist hat 🎓📊, because your mission, should you choose to accept it, is to construct a machine learning model that uses these parameters to predict the 'total_fare'
+**3) Evaluation metric:-** The submission will be evaluated using the RMSLE metric
 
-What is the metric in this competition? How is the leaderboard calculated?
-The submission will be evaluated using the RMSLE metric. One can usenp.sqrt(mean_squared_log_error(actual, predicted)) to calculate the same.
-This hackathon supports private and public leaderboards
-The public leaderboard is evaluated on 30% of Test data
-The private leaderboard will be made available at the end of the hackathon which will be evaluated on 100% of Test data
-The Final Score represents the score achieved based on the Best Score on the public leaderboard
+**4) Public and Private Split:-**
+
+a) This hackathon supports private and public leaderboards
+b) The public leaderboard is evaluated on 30% of Test data
+c) The private leaderboard will be made available at the end of the hackathon which will be evaluated on 100% of Test data
+
+# Summary
+
+**a) Best Submission Score:-**
+
+**1) Public Leaderboard :-** 
+
+**2) Private Leaderboard :-** 
+
+**b) Best Model:-** 
+
+**c) Competition Link:-** 
+
+**d) Rank Scored:-**
+
+a) * * out of ** registered participants (Public Leaderboard)
+
+b) * * out of ** registered participants (Private Leaderboard)
