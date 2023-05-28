@@ -6,6 +6,7 @@
 
 As a student, you've undoubtedly hailed a ride when you're late for class or heading out for a late-night study session. Ever wondered how the total cost of your ride is determined? Well, it's time to switch gears from passenger to predictor. In this thrilling hackathon, you'll put your data science skills to the ultimate test by predicting the total fare of a ride-hailing trip. 🎯 🚖
  🛠️💼📚:
+ 
 **2) About the Dataset:-** Dataset contains following files,
 
 **2.1) Train:-**  rows x  columns
@@ -15,13 +16,21 @@ As a student, you've undoubtedly hailed a ride when you're late for class or hea
 **2.3) Data description:-**
 
 ⏱️ **'trip_duration':** How long did the journey last?
+
 🛣️ **'distance_traveled':-** How far did the taxi travel?
+
 🧑‍🤝‍🧑 **'num_of_passengers':-** How many passengers were in the taxi?
+
 💵 **'fare':-** What's the base fare for the journey?
+
 💲 **'tip':-** How much did the driver receive in tips?
+
 🎀 **'miscellaneous_fees':-** Were there any additional charges during the trip?
-💰 **'total_fare':-** The grand total for the ride (this is your prediction target!).
+
+💰 **'total_fare':-** The grand total for the ride (this is your prediction target!)
+
 ⚡ **'surge_applied':-** Was there a surge pricing applied? Yes or no?
+
 📣 The contest will kick off on May 19, 2023, and runs through June 11, 2023.
 Get ready to put on your data scientist hat 🎓📊, because your mission, should you choose to accept it, is to construct a machine learning model that uses these parameters to predict the 'total_fare'
 
