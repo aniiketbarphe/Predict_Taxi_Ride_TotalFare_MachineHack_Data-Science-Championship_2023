@@ -52,16 +52,16 @@ c) The private leaderboard will be made available at the end of the hackathon wh
 
 **a) Best Submission Score:-**
 
-**1) Public Leaderboard :-** 
+**1) Public Leaderboard :-** 0.19806
 
-**2) Private Leaderboard :-** 
+**2) Private Leaderboard :-** 0.20949
 
-**b) Best Model:-** 
+**b) Best Model:-** Ensemble Technique(Decision Tree Regressor + Random Forest Regressor + XGB Regressor + CatBoost Regressor)
 
-**c) Competition Link:-** 
+![Final_Image](https://github.com/aniiketbarphe/Predict_Taxi_Ride_TotalFare_MachineHack_Data-Science-Championship_2023/assets/84449238/c611f7ff-4f20-4645-a83a-0a98af9413bb)
+
+**c) Competition Link:-** https://machinehack.com/hackathons/data_science_student_championship_2023/leaderboard
 
 **d) Rank Scored:-**
 
-a) * * out of ** registered participants (Public Leaderboard)
-
-b) * * out of ** registered participants (Private Leaderboard)
+d1) **125** out of **813** registered participants (Private Leaderboard)
